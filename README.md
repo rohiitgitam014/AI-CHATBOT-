@@ -1,4 +1,4 @@
-# AI-CHATBOT-
+# AI-CHATBOT
 This AI chatbot is designed to interact with users in a natural and conversational manner by leveraging Natural Language Processing (NLP) methods. It begins by preprocessing the user's input—tokenizing, normalizing, and sometimes even lemmatizing the text—to extract the underlying intent and key entities. Once the input is analyzed, the chatbot determines whether to respond with a predefined answer or to generate a dynamic response using a pre-trained language model. This blend of rule-based logic and machine learning allows the chatbot to handle everything from simple greetings and small talk to more complex queries.
 
 Key features include:
